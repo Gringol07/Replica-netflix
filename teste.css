@@ -1,0 +1,45 @@
+
+
+
+body { background-color: black;  ; display: flex; justify-content: center;align-items: center; 
+height: 100vh; margin: 0;
+  
+}
+.container { display: flex; justify-content: center;align-items: center; flex-direction: column;
+
+
+}
+.perfis  { display: flex; justify-content: center; gap: 30px; margin-top: 20px; text-align: center;
+
+}
+.perfil {
+  display: flex;flex-direction: column; align-items: center;text-align: center;
+}
+.titulo {
+  text-align: center; margin-bottom: 20px;
+}
+
+
+img {  width: 130px; height: 130px; object-fit: cover; border-radius: 10px }
+
+.add { width: 130px; height: 130px; border: 1px solid white; display: flex; justify-content: center
+  ; align-items: center; color: white; font-size: 16px; border-radius: 10px;
+
+}
+a { text-decoration: none;
+
+}
+ 
+p { color: white; margin-top: 10px; font-size: 16px; ;
+
+}
+
+.titulo { color: white; display: flex; justify-content: flex-start; align-items: flex-start; text-align: start;
+
+
+}
+
+h1 { color: white; font-size: 40px; margin-bottom: 20px;
+
+
+}
